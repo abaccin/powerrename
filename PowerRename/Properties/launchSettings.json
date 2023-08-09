@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PowerRename (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PowerRename (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
